@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(19, 19, 19);
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: rgb(19, 19, 19);
+    border: solid;
+    border-radius: 50px;
+    border-color: rgb(185, 141, 28);
+    background-color: goldenrod;
+}
+
+input{
+    text-align: center;
+    margin-left: 665px;
+}
+button{
+    text-align: center;
+}
+
+ul{
+    color: honeydew;
+    margin-left: 665px;
+    font-family: cursive;
+    font-size: 32px;
+}
+a{
+    color: rgb(240, 182, 37);
+}
